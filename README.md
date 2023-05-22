@@ -12,4 +12,4 @@ This app is a videoplayer app and it built by using provider state management. T
 
 
 <h3>Videoplayer App Screen Video </h3>
-<img src="https://user-images.githubusercontent.com/125340601/230632061-00c7e0cf-08ca-4c89-9179-8ae1ab7a2514.mp4" weight="450" height="550"/>
+<img src="https://user-images.githubusercontent.com/125340601/230632061-00c7e0cf-08ca-4c89-9179-8ae1ab7a2514.mp4" weight="350" height="500"/>
